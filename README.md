@@ -1,4 +1,4 @@
 # NHWiki
 ## The complete collection
 
-* [Lucas](http://example.com)
+* [Lucas.md](http://example.com)
